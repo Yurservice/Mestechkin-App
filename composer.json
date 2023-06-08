@@ -2,7 +2,7 @@
     "name": "miestiechkin-app/miestiechkin-app",
     "description": "This Laravel lib allows you to get all DNS records for the specified domain name",
     "require": {
-        "miestiechkin-app/miestiechkin-app": "dev-master"
+        "miestiechkin-app/miestiechkin-app": "*"
       },
     "autoload": {
         "psr-4": {

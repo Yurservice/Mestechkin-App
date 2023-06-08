@@ -10,7 +10,4 @@ class coolDNSServiceClass
     }
 }
 
-/* $coolDNSService = new coolDNSService();
-print_r($coolDNSService->getDnsRecords('google.com')); */
-
 ?>
