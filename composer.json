@@ -17,8 +17,11 @@
     "extra": {
         "laravel": {
             "providers": [
-                "App\\Providers\\MiestiechkinAppServiceProvider"
-            ]
+                "Barryvdh\\Debugbar\\ServiceProvider"
+            ],
+            "aliases": {
+                "Debugbar": "Barryvdh\\Debugbar\\Facade"
+            }
         }
     },
     "version": "1.0"

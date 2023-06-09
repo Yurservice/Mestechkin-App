@@ -17,7 +17,7 @@ To install the app, follow these steps:
 ]
 ```
 
-2. Run the command `composer install` to download Mestechkin-App from GitHub. The app will be available in the `vendor/miestiechkin-app/miestiechkin-app` directory.
+2. Run the command `composer require miestiechkin-app/miestiechkin-app` to download Mestechkin-App from GitHub. The app will be available in the `vendor/miestiechkin-app/miestiechkin-app` directory.
 
 ## Registration in Laravel
 
